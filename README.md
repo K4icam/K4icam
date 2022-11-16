@@ -1,5 +1,4 @@
-Stack
-	
+Stack:
 <tr>
 
 <div align="left">  
@@ -14,8 +13,8 @@ Stack
 
 
 </details>
-
-Contact me
+<br>
+Contact me:<br>
     <ul>
         <li><strong>Discord: </strong> <code>keicam#0982</code></li>
         <li><strong>E-mail: </strong> <code>maciekwy10@gmail.com</code></li>
